@@ -1,5 +1,10 @@
-## Hi there 👋
+## 嗨！这里李思柔👋
 
+#### 计算机科学与技术专业在读大学生(正在迷茫中学习前端开发
+#### enfp快乐小狗🐶➕天秤座经典款一枚
+#### 香菜终极爱好者(希望在这个世界种满香菜🌱
+#### 喜欢招猫逗狗，遇到的猫和狗全都惨遭我的“毒手”
+#### 生命中最不可缺少的事情是看孙颖莎和王楚钦打球🏓
 <!--
 **rourou0930/rourou0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
